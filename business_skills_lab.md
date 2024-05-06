@@ -1,14 +1,3 @@
-TASK
-ACME Confectionary is a local confectionary company which sells directly out of its single store in Sheffield. Over the years, they’ve become popular amongst locals with many people returning time and again to buy their favourite products. Based on this popularity, the company has received some investment and, after completing a SWOT analysis they’re looking to launch a digital store with the aims of:
-	- Increasing customers
-	- Increasing their revenue
-	- Enabling returning customers to easily buy products regularly, over and over again
-
-Your task is to:
-	- Recommend digital technology solutions which would help them hit their above goals, focusing on features that would enable this
-	- Prioritise these features on sprint roadmap – assuming that only one key feature can be worked on at once. Be prepared to justify why you’ve made these judgements.
-	- Consider how you would measure the success of your features, and what you might do if one was unsuccessful?
-
 | 🏃‍♂️‍➡️Sprint | 💡Feature | ❓Rationale | 📈Measuring Success | 🙅‍♀️If unsuccessful? | 🧩 Difficulty |
 | :---: | :---------------- | :---------------- | :----------------- | :----------------- | :---: |
 | 1️⃣ | Create an app/website that is clearly formatted, and includes customer support (live chat or phone) | A comprehensive layout creates convenience for browsing. Providing support allows any queries to be resolved and helps to fix repetitive issues that might affect customer retention | User feedback and surveys; bounce rate; traffic; percentage of visitors who make a purchase; customer satisfaction rates | Conduct thorough user research and testing to understand customer POV; consider website layout to understand user experience | Low |
